@@ -11,11 +11,11 @@ A comprehensive messaging system for Unity with support for local and network me
 3. Click the **+** button and select **Add package from git URL**
 4. Enter the repository URL:
    ```
-   https://github.com/yourusername/Unity-Message-Center.git
+   https://github.com/buho-Game/unity-message-center.git
    ```
    Or use a specific version/tag:
    ```
-   https://github.com/yourusername/Unity-Message-Center.git#v1.0.0
+   https://github.com/buho-Game/unity-message-center.git#v1.0.0
    ```
 
 ### Via Unity Package Manager (Local Path)
